@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XQMH/Dg9ZE8kwMaZPIPOOqRjKZwBjGXVEhVVH8CKhUxl0D1AEMvzJi3ULzlijx/OU3Nh/olIJQQxpj2u48ALg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roaas\\Desktop\\ProblemFour\\ProblemFour\\ProblemFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roaas\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\roaas\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
