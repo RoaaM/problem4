@@ -1,6 +1,6 @@
 # Image Statistics
 
-you can run this code on visual studio by download this repo and open it in visual studio.
+you can run this code by download this repo and open it on visual studio
 
 This C# code defines a class called ImageStatistics that contains a method called Calculate that takes a Bitmap object as input and returns a tuple of four values that represent the statistics of the input image.
 
